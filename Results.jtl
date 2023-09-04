@@ -1,0 +1,849 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1693815319701,31,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,31
+1693815322739,1,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,1
+1693815325742,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815328745,1,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,1
+1693815331749,0,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,0
+1693815334754,0,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,0
+1693815337756,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815340759,2,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,1
+1693815343761,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815346765,1,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,1
+1693815349768,0,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,0
+1693815352771,1,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,1
+1693815355774,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815358776,1,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,1
+1693815361779,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815364784,1,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,1
+1693815367786,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815370789,0,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,0
+1693815373791,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815376792,1,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,1
+1693815379795,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815382797,1,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,1
+1693815385799,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815388802,1,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,1
+1693815391804,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815394807,1,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,1
+1693815397810,0,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,0
+1693815400812,0,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,0
+1693815403814,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,0
+1693815406816,0,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,0
+1693815409818,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815412821,0,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,0
+1693815415823,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815418825,1,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,1
+1693815421828,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815424831,0,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,0
+1693815427833,0,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,0
+1693815430839,1,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,1
+1693815433841,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815436843,1,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,1
+1693815439845,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815442846,1,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,1
+1693815445848,2,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815448853,1,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,1
+1693815451856,0,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,0
+1693815454858,1,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,1
+1693815457861,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815460863,1,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,1
+1693815463866,0,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,0
+1693815466868,0,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,0
+1693815469870,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815472873,0,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,0
+1693815475875,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815478876,1,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,1
+1693815481878,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815484881,0,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,0
+1693815487883,0,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,0
+1693815490885,0,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,0
+1693815493888,0,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,0
+1693815496890,0,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,0
+1693815499892,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815502894,0,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,0
+1693815505896,0,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,0
+1693815508898,1,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,0
+1693815511899,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,0
+1693815514901,1,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,1
+1693815517903,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815520905,1,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,1
+1693815523908,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815526910,1,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,1
+1693815529912,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815532914,1,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,1
+1693815535916,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815538918,1,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,1
+1693815541920,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815544923,1,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,1
+1693815547924,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815550926,1,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,1
+1693815553928,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815556931,1,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,1
+1693815559933,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815562935,1,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,1
+1693815565937,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815568939,1,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,1
+1693815571941,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815574945,0,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,0
+1693815577946,0,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,0
+1693815580947,1,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,1
+1693815583949,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815586951,1,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,1
+1693815589953,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815592956,1,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,1
+1693815595958,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815598960,1,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,1
+1693815601962,0,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,0
+1693815604964,1,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,1
+1693815607966,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815610968,1,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,1
+1693815613969,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815616971,1,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,1
+1693815619973,0,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,0
+1693815622976,0,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,0
+1693815625977,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815628980,0,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,0
+1693815631982,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,0
+1693815634984,1,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,1
+1693815637986,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815640988,1,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,1
+1693815643990,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815646991,1,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,1
+1693815649993,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815652995,0,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,0
+1693815655996,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815658998,1,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,1
+1693815662001,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815665004,0,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,0
+1693815668006,0,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,0
+1693815671007,1,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,1
+1693815674009,1,memorySample1,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=7000,0,0,1
+1693815677011,1,memorySample2,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to localhost:8080 [localhost/127.0.0.1] failed: Connection refused (Connection refused),Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2646,0,1,1,http://localhost:8080/examples/jsp/memory.jsp?size=5000,0,0,1
+1693815316481,360532,Transaction Controller,,"Number of samples in transaction : 120, number of failing samples : 120",Thread Group 1-1,,false,,317520,0,1,1,null,0,0,116
+1693815757922,844,AppLaunch,200,"Number of samples in transaction : 1, number of failing samples : 0",LO-TG 1-1,,true,,133517,123,1,1,null,0,113,668
+1693815758032,844,AppLaunch,200,OK,LO-TG 1-1,text,true,,133517,123,1,1,https://learning-ocean.com/,798,0,668
+1693815758890,648,DockerTu,200,"Number of samples in transaction : 2, number of failing samples : 0",LO-TG 1-1,,true,,620425,298,1,1,null,0,1,0
+1693815758890,205,DockerLaunch,200,OK,LO-TG 1-1,text,true,,88961,139,1,1,https://learning-ocean.com/tutorials/docker,201,0,0
+1693815759096,443,PortMap,200,OK,LO-TG 1-1,text,true,,531464,159,1,1,https://learning-ocean.com/tutorials/docker/docker-port-mapping,335,0,0
+1693815759540,204,TerraformTu,200,"Number of samples in transaction : 1, number of failing samples : 0",LO-TG 1-1,,true,,106298,142,1,1,null,0,0,0
+1693815759540,204,TerraformLaunch,200,OK,LO-TG 1-1,text,true,,106298,142,1,1,https://learning-ocean.com/tutorials/terraform,200,0,0
